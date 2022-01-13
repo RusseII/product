@@ -11,7 +11,7 @@
 
 - Knows how the auction works
   - User came to this page through landing page which has links to educational content
-  - If they don't know how it works, they can learn via the a link in the navbar
+  - If they don't know how it works, they can learn via the link in the navbar
 
 ## User needs
 
@@ -55,6 +55,9 @@ Explains to users the potential risk of participating in the auction. [Here is a
   - Ex: 7 days, 3 hours
 - Bond offering size
   - \$50M
+- Total bid volume
+  - Empty state
+  - Ex: -
 - Minimum funding threshold
   - Ex: \$30M
 - Auction description
@@ -65,15 +68,26 @@ Explains to users the potential risk of participating in the auction. [Here is a
 - Maximum bond interest rate
   - The auction determines interest rate based on supply and demand. This is the maximum interest rate the issuer is willing to pay.
   - Ex: 15%
+- Current auction interest rate
+  - Empty state
+  - Ex: -
 - Bond Term length
   - Ex: 12 months
-- Bond Collateral
+- Bond Collateral stats
   - Type and amount
     - Ex: 500,000 UNI
   - Token contract address
+  - Current collateralization ratio
 - Convertibility
   - Are the bonds redeemable for a pro-rata portion of the collateral tokens?
-  - Ex: Yes/No
+  - Yes/No
+  - Breakeven token price of convertibility
+    - Ex: \$75
+  - Current token price
+    - Ex: \$25
+  - Projected returns graph
+    - [Example](../../assets/conversion_graph.png)
+      - This will be replaced by a better example
 
 ### Bid submission
 
@@ -101,4 +115,6 @@ Explains to users the potential risk of participating in the auction. [Here is a
 ### Auction management
 
 - Allows auction creator to manage auction
+  - Add addresses to whitelist (if kyc)
+  - Cancel auction
 - [Example]

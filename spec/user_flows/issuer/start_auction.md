@@ -1,6 +1,6 @@
 # Start auction
 
-1. User starts on the home page
+1. User starts on the [auction page](../pages/auction_discovery_page.md)
 1. User navigates to auction setup
 1. User enters [configuration for bond](../inputs/bond_config.md)
 1. User enters [configuration for auction](../inputs/auction_config.md)

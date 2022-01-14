@@ -35,8 +35,8 @@
 
 ## Inspirations
 
-- [Gnosis Auction](assets/gnosis/auction_page_during.png)
-- [Copper Launch](assets/copper/auction_page_during.png)
+- [Gnosis Auction](../../assets/gnosis/auction_page_during.png)
+- [Copper Launch](../../assets/copper/auction_page_during.png)
 
 ## Features
 
@@ -44,7 +44,7 @@
 
 Explains to users the potential risk of participating in the auction.
 
-- [Example](assets/copper/warning.png)
+- [Example](../../assets/copper/warning.png)
 
 ### Auction information
 
@@ -87,7 +87,7 @@ Explains to users the potential risk of participating in the auction.
   - Current token price
     - Ex: \$25
   - Projected returns graph
-    - [Example](assets/convertible_bond_graph.png)
+    - [Example](../../assets/convertible_bond_graph.png)
       - This will be replaced by a better example
 
 ### Bid submission
@@ -102,8 +102,8 @@ Explains to users the potential risk of participating in the auction.
     - Ex: 0.92 and \$1,000,000
     - Price will be between 0 and 1
 - Examples
-  - [Copper](assets/copper/bidding_during.png)
-  - [Gnosis](assets/gnosis/bidding_during.png)
+  - [Copper](../../assets/copper/bidding_during.png)
+  - [Gnosis](../../assets/gnosis/bidding_during.png)
 
 ### Orderbook
 
@@ -115,8 +115,8 @@ Explains to users the potential risk of participating in the auction.
     - Volume
   - Should be sortable by Price, interest rate, or volume
 - Examples
-  - [Copper](assets/copper/order_book.png)
-  - [Gnosis](assets/gnosis/order_book.png)
+  - [Copper](../../assets/copper/order_book.png)
+  - [Gnosis](../../assets/gnosis/order_book.png)
 
 ### Your orders
 

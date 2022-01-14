@@ -8,5 +8,5 @@ This page has three states:
 
 The following user flows happen on this page:
 
-- [Investor participates in auction](../../user_flows/investor/participate_in_auction.md)
+- [Investor participates in auction](../../user_flows/investor/submit_an_order.md)
 - [Issuer manages auction](../../user_flows/issuer/manage_auction.md)

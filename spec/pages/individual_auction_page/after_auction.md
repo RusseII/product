@@ -28,8 +28,8 @@
 
 ## Inspirations
 
-- [Gnosis Auction](assets/gnosis/auction_page_post.png)
-- [Copper Launch](assets/copper/auction_page_post.png)
+- [Gnosis Auction](../../assets/gnosis/auction_page_post.png)
+- [Copper Launch](../../assets/copper/auction_page_post.png)
 
 ## Features
 
@@ -75,19 +75,19 @@
   - Current token price
     - Ex: \$25
   - Projected returns graph
-    - [Example](assets/convertible_bond_graph.png)
+    - [Example](../../assets/convertible_bond_graph.png)
       - This will be replaced by a better example
 
 - Examples
-  - [Copper](assets/copper/auction_details_post.png)
-  - [Gnosis](assets/gnosis/auction_details_post.png)
+  - [Copper](../../assets/copper/auction_details_post.png)
+  - [Gnosis](../../assets/gnosis/auction_details_post.png)
 
 ### Bid submission
 
 - No longer accessible, post auction state
 - Examples
-  - [Copper](assets/copper/bidding_post.png)
-  - [Gnosis](assets/gnosis/bidding_post.png)
+  - [Copper](../../assets/copper/bidding_post.png)
+  - [Gnosis](../../assets/gnosis/bidding_post.png)
 
 ### Orderbook
 
@@ -99,8 +99,8 @@
     - Volume
   - Should be sortable by Price, interest rate, or volume
 - Examples
-  - [Copper](assets/copper/order_book.png)
-  - [Gnosis](assets/gnosis/order_book.png)
+  - [Copper](../../assets/copper/order_book.png)
+  - [Gnosis](../../assets/gnosis/order_book.png)
 
 ### Your orders
 
@@ -115,20 +115,20 @@
     - Claim bonds
     - Claim funds
 - Examples
-  - [Copper](assets/copper/order_book.png)
-  - [Gnosis](assets/gnosis/my_orders_empty.png)
+  - [Copper](../../assets/copper/order_book.png)
+  - [Gnosis](../../assets/gnosis/my_orders_empty.png)
 
 ### Graph
 
 - This is a visual representation of all bids
 - Tells user current state of the auction/pricing at a glance
 - Examples
-  - [Copper](assets/copper/order_book_graph.png)
-  - [Gnosis](assets/gnosis/order_book_graph.png)
+  - [Copper](../../assets/copper/order_book_graph.png)
+  - [Gnosis](../../assets/gnosis/order_book_graph.png)
 
 ### Auction management
 
 - Allows auction creator to manage auction
   - Claim funds raised
 - Examples
-  - [Copper](assets/copper/auction_management.png)
+  - [Copper](../../assets/copper/auction_management.png)

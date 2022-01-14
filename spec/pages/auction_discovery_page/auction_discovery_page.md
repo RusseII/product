@@ -2,8 +2,8 @@
 
 ## Inspirations
 
-- [Gnosis Auction auction discovery page](https://gnosis-auction.eth.link/#/overview)
-- [Copper Launch auction discovery page](https://copperlaunch.com/auctions)
+- [Gnosis Auction](https://gnosis-auction.eth.link/#/overview)
+- [Copper Launch](https://copperlaunch.com/auctions)
 
 ## Functionalities
 

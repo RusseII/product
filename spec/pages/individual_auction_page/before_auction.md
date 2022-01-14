@@ -1,4 +1,6 @@
-# Individual auction page before auction
+# Individual auction page
+
+## State: Before Auction Started
 
 ## Users
 
@@ -30,18 +32,15 @@
 
 ## Inspirations
 
-- [Gnosis Auction individual auction page](https://gnosis-auction.eth.link/#/auction?auctionId=52&chainId=1#topAnchor)
-
-  - There are only completed auctions available to view
-
-- [Copper Launch individual auction page](https://copperlaunch.com/auctions/0xb8ece82fcfb948b1af937e2819eb2d72bb3d98d2)
-  - You may need to find a different auction that hasn't started yet
+- [Copper Launch](assets/copper/auction_page_pre.png)
 
 ## Features
 
 ### Warning
 
-Explains to users the potential risk of participating in the auction. [Here is an example](../../assets/risk_warning.png)
+Explains to users the potential risk of participating in the auction.
+
+- [Example](assets/copper/warning.png)
 
 ### Auction information
 
@@ -86,35 +85,40 @@ Explains to users the potential risk of participating in the auction. [Here is a
   - Current token price
     - Ex: \$25
   - Projected returns graph
-    - [Example](../../assets/conversion_graph.png)
+    - [Example](assets/convertible_bond_graph.png)
       - This will be replaced by a better example
 
 ### Bid submission
 
 - This is where users will submit bids once auction is live
-- [Example](../../assets/bidding_pre_auction.png)
+- Examples
+  - [Copper](assets/copper/bidding_pre.png)
 
 ### Orderbook
 
 - This is where bids will be displayed once auction is live
-- [Example](../../assets/order_book_pre_auction.png)
+- Examples
+  - [Copper](assets/copper/order_book.png)
+  - [Gnosis](assets/gnosis/order_book.png)
 
 ### Your orders
 
 - This is where a users bids will be displayed once auction is live and a user has placed a bid
-- [Example](../../assets/your_orders.png)
-  - Adapt for pre-auction state
+- Examples
+  - [Copper](assets/copper/order_book_empty.png)
+  - [Gnosis](assets/gnosis/my_orders_empty.png)
 
 ### Graph
 
 - This is a visual representation of all bids
 - Tells user current state of the auction/pricing at a glance
-- [Example](../../assets/order_book_chart.png)
-  - Adapt for pre-auction state
+- Examples
+  - [Copper](assets/copper/order_book_graph.png)
+  - [Gnosis](assets/gnosis/order_book_graph.png)
 
 ### Auction management
 
 - Allows auction creator to manage auction
-  - Add addresses to whitelist (if kyc)
   - Cancel auction
-- [Example]
+- Examples
+  - [Copper](assets/copper/auction_management.png)

@@ -1,4 +1,6 @@
-# Individual auction page after auction
+# Individual auction page
+
+## State: Auction Ended
 
 ## Users
 
@@ -26,8 +28,8 @@
 
 ## Inspirations
 
-- [Gnosis Auction individual auction page](https://gnosis-auction.eth.link/#/auction?auctionId=52&chainId=1#topAnchor)
-- [Copper Launch individual auction page](https://copperlaunch.com/auctions/0xeedca0c2cba983b718c66094fc8e41f9ed52f82a)
+- [Gnosis Auction](assets/gnosis/auction_page_post.png)
+- [Copper Launch](assets/copper/auction_page_post.png)
 
 ## Features
 
@@ -65,6 +67,7 @@
   - Token contract address
   - Current collateralization ratio
 - Convertibility
+
   - Are the bonds redeemable for a pro-rata portion of the collateral tokens?
   - Yes/No
   - Breakeven token price of convertibility
@@ -72,13 +75,19 @@
   - Current token price
     - Ex: \$25
   - Projected returns graph
-    - [Example](../../assets/conversion_graph.png)
+    - [Example](assets/convertible_bond_graph.png)
       - This will be replaced by a better example
+
+- Examples
+  - [Copper](assets/copper/auction_details_post.png)
+  - [Gnosis](assets/gnosis/auction_details_post.png)
 
 ### Bid submission
 
 - No longer accessible, post auction state
-- [Example](TODO)
+- Examples
+  - [Copper](assets/copper/bidding_post.png)
+  - [Gnosis](assets/gnosis/bidding_post.png)
 
 ### Orderbook
 
@@ -89,7 +98,9 @@
     - Price
     - Volume
   - Should be sortable by Price, interest rate, or volume
-- [Copper launch example](../../assets/order_book_during_auction.png)
+- Examples
+  - [Copper](assets/copper/order_book.png)
+  - [Gnosis](assets/gnosis/order_book.png)
 
 ### Your orders
 
@@ -103,16 +114,21 @@
       - Ex: Filled/Partially Filled/Unfilled/Cancelled
     - Claim bonds
     - Claim funds
-- [Example](../../assets/your_orders.png)
+- Examples
+  - [Copper](assets/copper/order_book.png)
+  - [Gnosis](assets/gnosis/my_orders_empty.png)
 
 ### Graph
 
 - This is a visual representation of all bids
 - Tells user current state of the auction/pricing at a glance
-- [Example](../../assets/order_book_chart.png)
+- Examples
+  - [Copper](assets/copper/order_book_graph.png)
+  - [Gnosis](assets/gnosis/order_book_graph.png)
 
 ### Auction management
 
 - Allows auction creator to manage auction
   - Claim funds raised
-- [Example]
+- Examples
+  - [Copper](assets/copper/auction_management.png)

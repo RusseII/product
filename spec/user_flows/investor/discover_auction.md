@@ -1,5 +1,10 @@
 # Discover auction
 
+## Inspiration
+
+[Copper Launch](https://copperlaunch.com)
+[Gnosis Auction](https://gnosis-auction.eth.link/#/start)
+
 ## Curated auction
 
 1. User navigates to auctions page

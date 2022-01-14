@@ -1,5 +1,7 @@
 # Individual auction page during auction
 
+## State: During Auction
+
 ## Users
 
 - Potential auction participant
@@ -33,15 +35,16 @@
 
 ## Inspirations
 
-- [Gnosis Auction individual auction page](https://gnosis-auction.eth.link/#/auction?auctionId=52&chainId=1#topAnchor)
-  - There are only completed auctions available to view
-- [Copper Launch individual auction page](https://copperlaunch.com/auctions/0xc065798f227b49c150bcdc6cdc43149a12c4d757)
+- [Gnosis Auction](assets/gnosis/auction_page_during.png)
+- [Copper Launch](assets/copper/auction_page_during.png)
 
 ## Features
 
 ### Warning
 
-Explains to users the potential risk of participating in the auction. [Here is an example](../../assets/risk_warning.png)
+Explains to users the potential risk of participating in the auction.
+
+- [Example](assets/copper/warning.png)
 
 ### Auction information
 
@@ -84,7 +87,7 @@ Explains to users the potential risk of participating in the auction. [Here is a
   - Current token price
     - Ex: \$25
   - Projected returns graph
-    - [Example](../../assets/conversion_graph.png)
+    - [Example](assets/convertible_bond_graph.png)
       - This will be replaced by a better example
 
 ### Bid submission
@@ -98,7 +101,9 @@ Explains to users the potential risk of participating in the auction. [Here is a
   - Price and volume
     - Ex: 0.92 and \$1,000,000
     - Price will be between 0 and 1
-- [Example](../../assets/bidding_during_auction.png)
+- Examples
+  - [Copper](assets/copper/bidding_during.png)
+  - [Gnosis](assets/gnosis/bidding_during.png)
 
 ### Orderbook
 
@@ -109,7 +114,9 @@ Explains to users the potential risk of participating in the auction. [Here is a
     - Price
     - Volume
   - Should be sortable by Price, interest rate, or volume
-- [Copper launch example](../../assets/order_book_during_auction.png)
+- Examples
+  - [Copper](assets/copper/order_book.png)
+  - [Gnosis](assets/gnosis/order_book.png)
 
 ### Your orders
 
@@ -126,17 +133,20 @@ Explains to users the potential risk of participating in the auction. [Here is a
       - Yes/No
         - If yes, should be green, happy state indicator
         - If no, should have red, unhappy state indicator
-- [Example](../../assets/your_orders.png)
   - Bids should be able to be cancelled
+- Examples
+  - [Copper](assets/copper/order_book.png)
+  - [Gnosis](assets/gnosis/my_orders_empty.png)
 
 ### Graph
 
 - This is a visual representation of all bids
 - Tells user current state of the auction/pricing at a glance
-- [Example](../../assets/order_book_chart.png)
+- Examples
+  - [Copper](assets/copper/order_book_graph.png)
+  - [Gnosis](assets/gnosis/order_book_graph.png)
 
 ### Auction management
 
-- Allows auction creator to manage auction
-  - Add addresses to whitelist (if kyc)
-- [Example]
+- Examples
+  - [Copper](assets/copper/auction_management.png)

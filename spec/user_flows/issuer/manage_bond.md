@@ -9,3 +9,6 @@
 1. User is able to claim collateral
 
 ### Partial/no repayment
+
+1. Collateral is auctioned off
+2. Any collateral left over after auction can be claimed

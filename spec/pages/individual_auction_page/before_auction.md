@@ -32,7 +32,7 @@
 
 ## Inspirations
 
-- [Copper Launch](assets/copper/auction_page_pre.png)
+- [Copper Launch](../../assets/copper/auction_page_pre.png)
 
 ## Features
 
@@ -40,7 +40,7 @@
 
 Explains to users the potential risk of participating in the auction.
 
-- [Example](assets/copper/warning.png)
+- [Example](../../assets/copper/warning.png)
 
 ### Auction information
 
@@ -85,36 +85,36 @@ Explains to users the potential risk of participating in the auction.
   - Current token price
     - Ex: \$25
   - Projected returns graph
-    - [Example](assets/convertible_bond_graph.png)
+    - [Example](../../assets/convertible_bond_graph.png)
       - This will be replaced by a better example
 
 ### Bid submission
 
 - This is where users will submit bids once auction is live
 - Examples
-  - [Copper](assets/copper/bidding_pre.png)
+  - [Copper](../../assets/copper/bidding_pre.png)
 
 ### Orderbook
 
 - This is where bids will be displayed once auction is live
 - Examples
-  - [Copper](assets/copper/order_book.png)
-  - [Gnosis](assets/gnosis/order_book.png)
+  - [Copper](../../assets/copper/order_book.png)
+  - [Gnosis](../../assets/gnosis/order_book.png)
 
 ### Your orders
 
 - This is where a users bids will be displayed once auction is live and a user has placed a bid
 - Examples
-  - [Copper](assets/copper/order_book_empty.png)
-  - [Gnosis](assets/gnosis/my_orders_empty.png)
+  - [Copper](../../assets/copper/order_book_empty.png)
+  - [Gnosis](../../assets/gnosis/my_orders_empty.png)
 
 ### Graph
 
 - This is a visual representation of all bids
 - Tells user current state of the auction/pricing at a glance
 - Examples
-  - [Copper](assets/copper/order_book_graph.png)
-  - [Gnosis](assets/gnosis/order_book_graph.png)
+  - [Copper](../../assets/copper/order_book_graph.png)
+  - [Gnosis](../../assets/gnosis/order_book_graph.png)
 
 ### Auction management
 

@@ -8,6 +8,6 @@
 
 ## Investor
 
-- [Discover auction](investor/discover_auction.md)
-- [Participate in auction](investor/participate_in_auction.md)
+- [Discover auction](investor/discover_vetted_auction.md)
+- [Participate in auction](investor/submit_an_order.md)
 - [Manage bond](investor/manage_bond.md)

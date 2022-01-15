@@ -1,6 +1,6 @@
 # Product Spec
 
-This product spec guides the product decisions of the Porter issuance platform.
+This product spec guides and outlines the product decisions of the Porter issuance platform.
 
 - [User stories](user_stories/README.md)
 - [User personas](user_personas/README.md)

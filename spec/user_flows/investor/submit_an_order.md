@@ -10,12 +10,12 @@
 ## User flow
 
 1. User starts on an auction page with an "Active" status
-   ![](../../assets/copper/auction_page_during.png)
+   ![](../../assets/copper/auction_page.png)
 2. User sees warning outlining the dangers of participating in bond auctions
    ![](../../assets/copper/warning.png)
 3. User sees auction details
    ![](../../assets/copper/auction_details.png)
-   ![](../../assets/gnosis/auction_details_post.png)
+   ![](../../assets/gnosis/auction_details.png)
 4. User sees chart representing order book
    ![](../../assets/gnosis/order_book_graph.png)
 5. User sees bond details

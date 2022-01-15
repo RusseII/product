@@ -1,6 +1,6 @@
 # User Stories
 
-## Purchasers
+## Investors
 
 - [Institutional Investors](institutional_investors.md)
 - [Investing DAOs](investing_daos.md)

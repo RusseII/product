@@ -58,7 +58,7 @@ The auction information will be displayed at the top of the page in a grid.
 - Value: date
   - Ex: Jan 21, 2022
 
-#### Bond offering size
+#### Maximum issue size
 
 - Description: Maximum amount and type of token DAO will borrow
 - Value: amount and type of asset
@@ -70,7 +70,7 @@ The auction information will be displayed at the top of the page in a grid.
 - Value: amount and type of asset
   - Ex: 75M FEI
 
-#### Minimum funding threshold
+#### Minimum funding threshold/Minimum issue size
 
 - Description: Bid volume required for auction to settle
 - Value: amount and type of asset
@@ -98,7 +98,7 @@ The auction information will be displayed at the top of the page in a grid.
 
 ### Gnosis Auction
 
-![](../../../assets/gnosis/auction_details_post.png)
+![](../../../assets/gnosis/auction_details.png)
 
 ### Copper Launch
 

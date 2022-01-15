@@ -1,29 +1,40 @@
 # Auction discovery page
 
-## Inspirations
+## Purpose
 
-- [Gnosis Auction](https://gnosis-auction.eth.link/#/overview)
-- [Copper Launch](https://copperlaunch.com/auctions)
+The purpose of the auction discovery page is to allow users to discover auctions and start auctions.
 
-## Functionalities
+## Users
 
-- View/find featured auctions
-- View/find unfeatured auctions
-- View abridged auction information for each displayed auction
-  - Issuer
-    - Display logo of issuer org
-  - Auction status
-    - Starting in x days
-    - Ending in x days
-    - Ended
-  - Asset being borrowed
-  - Auction Type
-    - Public
-    - Private (this means there is a whitelist)
-  - Collateral
-    - Yes (display with image of collateral token)
-    - No
-  - Convertible
-    - Yes
-    - No
-- Start an auction call to action
+- Investor
+  - Potential auction participant
+- Issuer
+  - Auction creator/manager
+
+## User flows
+
+- [Investor discovers vetted auction](../../user_flows/investor/discover_vetted_auction.md)
+- [Investor discovers unvetted auction](../../user_flows/investor/discover_unvetted_auction.md)
+
+## User needs
+
+| User     | User Wants                               | Product Needs                                     |
+| -------- | ---------------------------------------- | ------------------------------------------------- |
+| Investor | Wants to find auctions to participate in | Needs to display auctions in an intuitive fashion |
+| Issuer   | Wants to start an auction                | Needs allow a user to start an auction            |
+
+## Features
+
+### [Auction lists](features/auction_list.md)
+
+### Create auction
+
+## Examples
+
+### Copper Launch
+
+![](../../assets/copper/auction_discovery_page.png)
+
+### Gnosis Auction
+
+![](../../assets/gnosis/auction_discovery_page.png)

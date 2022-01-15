@@ -2,7 +2,7 @@
 
 This product spec guides and outlines the product decisions of the Porter issuance platform.
 
-- [User stories](user_stories/README.md)
-- [User personas](user_personas/README.md)
-- [User flows](user_flows/README.md)
-- [Pages](pages/README.md)
+- [User stories](user_stories)
+- [User personas](user_personas)
+- [User flows](user_flows)
+- [Pages](pages)

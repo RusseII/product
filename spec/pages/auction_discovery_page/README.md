@@ -25,9 +25,11 @@ The purpose of the auction discovery page is to allow users to discover auctions
 
 ## Features
 
-### [Auction lists](features/auction_list.md)
+### [Auction lists](stages/auction_list.md)
 
-### Create auction
+### Create auction button
+
+- Links to [create auction page](../../pages/create_auction_page)
 
 ## Examples
 

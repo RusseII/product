@@ -62,19 +62,25 @@ The auction information will be displayed at the top of the page in a grid.
 
 - Description: Maximum amount and type of token DAO will borrow
 - Value: amount and type of asset
-  - Ex: 50M FEI
+  - Ex: 50,000,000 FEI
 
 #### Total bid volume
 
 - Description: Sum of all bids submitted in auction
 - Value: amount and type of asset
-  - Ex: 75M FEI
+  - Ex: 75,000,000 FEI
 
 #### Minimum funding threshold/Minimum issue size
 
 - Description: Bid volume required for auction to settle
 - Value: amount and type of asset
-- Ex: 30M FEI
+- Ex: 30,000,000 FEI
+
+#### Minimum bid size
+
+- Description: Bid size required to participate
+- Value: amount and type of asset
+- Ex: 1,000 FEI
 
 #### Current auction interest rate (Active only)
 

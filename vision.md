@@ -40,7 +40,5 @@
 
 ## Distill
 
-**The [target buyer/user] who [has this problem] will use [name of your product] to achieve [the key benefit or value you will provide] because [explanation of why other offerings fail] and will feel [the following emotion].**
-
 - The DAOs who need access to credit will use Porter to achieve financing because Porter offers under-collateralized financing without the threat of liquidation which allows DAOs to focus on building and makes them feel safe.
 - The investors who need to find yield bearing assets will use Porter to achieve a competitive return because Porter offers liquid, high yield bonds that offer downside protection in a bear market which makes investors feel safe.

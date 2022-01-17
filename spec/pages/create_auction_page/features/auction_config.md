@@ -10,7 +10,7 @@ Auction config is a step in the auction creation page which contains sub-steps.
 
 ## Sub steps
 
-### Step 1: Start and end
+### Schedule
 
 **inputs**
 
@@ -22,7 +22,7 @@ Auction config is a step in the auction creation page which contains sub-steps.
 - Auction duration
 - Bond maturity date
 
-### Step 2: Bidding
+### Bidding
 
 **inputs**
 
@@ -31,7 +31,7 @@ Auction config is a step in the auction creation page which contains sub-steps.
 
 **display**
 
-### Step 3: Auction type
+### Type
 
 **inputs**
 
@@ -45,7 +45,7 @@ Auction config is a step in the auction creation page which contains sub-steps.
 - Tooltip saying addresses can be added to whitelist later
 - Tooltip saying not to use an address with assets in it (need clarity on this)
 
-### Step 4: Auction information
+### Information
 
 **inputs**
 
@@ -58,7 +58,7 @@ Auction config is a step in the auction creation page which contains sub-steps.
 - Link to docs explaining what a prospectus is
 - Platform fee
 
-### Step 5: Auction config review
+### Review
 
 **display**
 

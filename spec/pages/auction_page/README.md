@@ -22,7 +22,7 @@ The purpose of the auction page is to host the bond auction.
 
 ## User flows
 
-- [Investor participates in auction](../../user_flows/investor/submit_an_order.md)
+- [Investor participates in auction](../../user_flows/participate_in_auction.md)
 
 ## User needs
 

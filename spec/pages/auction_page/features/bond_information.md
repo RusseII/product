@@ -41,7 +41,6 @@ The auction information will be displayed toward the bottom of the page in a gri
 
 - Description: Type and amount of asset being provided as collateral for bond issuance.
 - Value: number and type of asset
-
   - Ex: 500,000 UNI
 
 #### Collateral contract address
@@ -58,8 +57,14 @@ The auction information will be displayed toward the bottom of the page in a gri
 
 #### Convertibility
 
-- Description: Whether or not the bonds are redeemable for a pro-rata portion of the collateral tokens
+- Description: Whether or not the bonds are redeemable for a portion of the collateral tokens
 - Value: boolean
+
+#### Convertible asset amount
+
+- Description: The amount of collateral asset the bonds are convertible into
+- Value: number and type of asset
+  - Ex: 300,000 UNI
 
 #### Breakeven token price of convertibility
 

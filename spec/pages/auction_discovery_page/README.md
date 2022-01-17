@@ -13,8 +13,8 @@ The purpose of the auction discovery page is to allow users to discover auctions
 
 ## User flows
 
-- [Investor discovers vetted auction](../../user_flows/investor/discover_vetted_auction.md)
-- [Investor discovers unvetted auction](../../user_flows/investor/discover_unvetted_auction.md)
+- [Investor discovers vetted auction](../../user_flows/discover_vetted_auction.md)
+- [Investor discovers unvetted auction](../../user_flows/discover_unvetted_auction.md)
 
 ## User needs
 

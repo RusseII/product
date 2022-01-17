@@ -1,13 +1,7 @@
 # User flows
 
-## Issuer
-
-- [Start auction](issuer/start_auction.md)
-- [Manage auction](issuer/manage_auction.md)
-- [Manage bond](issuer/manage_bond.md)
-
-## Investor
-
-- [Discover auction](investor/discover_vetted_auction.md)
-- [Participate in auction](investor/submit_an_order.md)
-- [Manage bond](investor/manage_bond.md)
+- [Issuer starts auction](start_auction.md)
+- [User discovers vetted auction](discover_vetted_auction.md)
+- [User discovers unvetted auction](discover_unvetted_auction.md)
+- [Investor participates in auction](participate_in_auction.md)
+- [Investor manages bond portfolio](investor_manages_bond.md) (in progress)

@@ -22,5 +22,5 @@
 
 - They want to attract the best talent which requires a portion of their compensation in stablecoins
 - DAO growth creates value for themselves, every DAO member, and the DAO ecosystem
-- They need to be able to communicate the upsides, downsides, and process to the community.
+- They need to be able to communicate the upsides, downsides, and process to the community
   - They need buy in from the community

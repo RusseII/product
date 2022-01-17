@@ -10,7 +10,7 @@ Bond config is a step in the auction creation page which contains sub-steps.
 
 ## Sub steps
 
-### Step 1: Bond
+### Bond
 
 **inputs**
 
@@ -27,7 +27,7 @@ Bond config is a step in the auction creation page which contains sub-steps.
 - Bond asset ticker
 - Bond asset balance
 
-### Step 2: Collateral
+### Collateral
 
 **inputs**
 
@@ -47,7 +47,7 @@ Bond config is a step in the auction creation page which contains sub-steps.
   - Collateral asset price (in terms of bond asset)
   - Current value of collateral (in terms of bond asset)
 
-### Step 3: Convertibility
+### Convertibility
 
 If there is no collateral, the bond cannot be convertible. Display a message explaining this and disable inputs if there is no collateral.
 
@@ -64,7 +64,7 @@ If there is no collateral, the bond cannot be convertible. Display a message exp
   - Breakeven token price of convertibility (in terms of bond asset)
   - Link to docs explaining breakeven token price
 
-### Step 4: Bond config review
+### Review
 
 **display**
 
